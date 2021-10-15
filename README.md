@@ -1,5 +1,7 @@
 # Atcoder
 
+暇つぶし
+
 **TODO: Add description**
 
 ## Installation
